@@ -3,6 +3,6 @@ def my_each(collection)
 while i < collection.length  
 until(collection[i])
 i = i + 1
-end
+ end
 collection
 end
