@@ -4,3 +4,5 @@ while i < collection.length
 until(collection[i])
 i = i + 1
 end
+collection
+end
