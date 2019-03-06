@@ -1,5 +1,4 @@
 def my_each(collection) 
-  while collection < 4
-  
+  i = 0
   
 end
